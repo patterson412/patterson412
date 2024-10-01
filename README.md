@@ -36,10 +36,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611vb5g5rvi2qvwaftyv4wb2d2atezvxtvsjfmxu0tw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/patterson_412/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -51,5 +47,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611vb5g5rvi2qvwaftyv4wb2d2atezvxtvsjfmxu0tw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/patterson412/patterson412/output/snake.svg" alt="Snake animation" />
 
 ###
