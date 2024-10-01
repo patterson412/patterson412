@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to my 🧠 zone! Here's a peek into my digital brainyard:<br><br>🚀 Code explorer and digital craftsman<br>💡 Transforming caffeine into code since my first "Hello World"<br>🌟 Passionate about all aspects of web dev and crafting innovative solutions that make you say "Wow, it works!"<br>🎯 Currently: Expanding my toolkit with cutting-edge skills<br>🌈 Off-duty: Enjoying cinematic adventures 🎬 and maintaining that developer-life balance with some serious workout time 🏋️. After all, good posture is as crucial as clean code!<br>🍋☕ Fun fact: My code runs on a dual-fuel system - lime juice by day for zesty debugging, coffee by night for turbocharged coding sessions!<br><br>Now that you've browsed my README, I'd love to git pull your story! What's your coding saga? 💻✨</h2>
+<h2 align="left">Welcome to my 🧠 zone! Here's a peek into my digital brainyard:<br><br>🚀 Code explorer and digital craftsman<br><br>💡 Transforming caffeine into code since my first "Hello World"<br><br>🌟 Passionate about all aspects of web dev and crafting innovative solutions that make you say "Wow, it works!"<br><br>🎯 Currently: Expanding my toolkit with cutting-edge skills<br><br>🌈 Off-duty: Enjoying cinematic adventures 🎬 and maintaining that developer-life balance with some serious workout time 🏋️. After all, good posture is as crucial as clean code!<br><br>🍋☕ Fun fact: My code runs on a dual-fuel system - lime juice by day for zesty debugging, coffee by night for turbocharged coding sessions!<br><br>Now that you've browsed my README, I'd love to git pull your story! What's your coding saga? 💻✨</h2>
 
 ###
 
@@ -36,6 +36,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611vb5g5rvi2qvwaftyv4wb2d2atezvxtvsjfmxu0tw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/patterson_412/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -47,13 +51,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b7611vb5g5rvi2qvwaftyv4wb2d2atezvxtvsjfmxu0tw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/patterson412/patterson412/output/snake.svg" alt="Snake animation" />
 
 ###
